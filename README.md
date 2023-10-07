@@ -266,7 +266,7 @@ pip es una herramienta en Python que se utiliza para administrar paquetes de sof
 
 
 
-# 10. Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
+# 10. Hacer un listado de módulos populares para python que se puedan instalar con pip y consultar cómo instalarlos.
 
  - Requests: Para realizar solicitudes HTTP de manera sencilla.
 
