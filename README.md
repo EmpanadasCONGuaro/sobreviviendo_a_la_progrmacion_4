@@ -287,22 +287,34 @@ Instalación: pip install numpy
  - Matplotlib: Para la creación de gráficos y visualización de datos.
 
 Instalación: pip install matplotlib
-Beautiful Soup: Para analizar y extraer datos de documentos HTML y XML.
+
+
+ - Beautiful Soup: Para analizar y extraer datos de documentos HTML y XML.
 
 Instalación: pip install beautifulsoup4
-Django: Framework web de alto nivel para desarrollo rápido y robusto.
+
+
+ - Django: Framework web de alto nivel para desarrollo rápido y robusto.
 
 Instalación: pip install Django
-Flask: Framework web minimalista y ligero.
+
+
+ - Flask: Framework web minimalista y ligero.
 
 Instalación: pip install Flask
-Scikit-Learn: Para aprendizaje automático y análisis de datos.
+
+
+ - Scikit-Learn: Para aprendizaje automático y análisis de datos.
 
 Instalación: pip install scikit-learn
-SQLAlchemy: Para interactuar con bases de datos SQL de manera eficiente.
+
+
+ - SQLAlchemy: Para interactuar con bases de datos SQL de manera eficiente.
 
 Instalación: pip install SQLAlchemy
-TensorFlow: Framework de aprendizaje automático desarrollado por Google.
+
+
+ - TensorFlow: Framework de aprendizaje automático desarrollado por Google.
 
 Instalación: pip install tensorflow
 
