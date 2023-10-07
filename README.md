@@ -269,15 +269,22 @@ pip es una herramienta en Python que se utiliza para administrar paquetes de sof
 # 10. Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
 
  - Requests: Para realizar solicitudes HTTP de manera sencilla.
+
 Instalación: pip install requests
 
-Pandas: Para el análisis y manipulación de datos tabulares.
+
+
+ - Pandas: Para el análisis y manipulación de datos tabulares.
 
 Instalación: pip install pandas
-NumPy: Biblioteca fundamental para la computación numérica en Python.
+
+
+ - NumPy: Biblioteca fundamental para la computación numérica en Python.
 
 Instalación: pip install numpy
-Matplotlib: Para la creación de gráficos y visualización de datos.
+
+
+ - Matplotlib: Para la creación de gráficos y visualización de datos.
 
 Instalación: pip install matplotlib
 Beautiful Soup: Para analizar y extraer datos de documentos HTML y XML.
@@ -300,6 +307,19 @@ TensorFlow: Framework de aprendizaje automático desarrollado por Google.
 Instalación: pip install tensorflow
 
 
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 
 
 
