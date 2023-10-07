@@ -259,7 +259,47 @@ if __name__ == "__main__":
 
 
 
-#9. Consultar qué es y cómo funciona pip en python.
+# 9. Consultar qué es y cómo funciona pip en python.
+
+
+pip es una herramienta en Python que se utiliza para administrar paquetes de software. Su nombre es un acrónimo de "Pip Installs Packages" (Pip Instala Paquetes) en español. Con pip, se puede instalar, actualizar y desinstalar paquetes de Python de manera fácil y eficiente desde varios repositorios. Los paquetes son conjuntos de código que pueden contener módulos, funciones y recursos que puedes usar en tus proyectos de Python.
+
+
+
+# 10. Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
+
+ - Requests: Para realizar solicitudes HTTP de manera sencilla.
+Instalación: pip install requests
+
+Pandas: Para el análisis y manipulación de datos tabulares.
+
+Instalación: pip install pandas
+NumPy: Biblioteca fundamental para la computación numérica en Python.
+
+Instalación: pip install numpy
+Matplotlib: Para la creación de gráficos y visualización de datos.
+
+Instalación: pip install matplotlib
+Beautiful Soup: Para analizar y extraer datos de documentos HTML y XML.
+
+Instalación: pip install beautifulsoup4
+Django: Framework web de alto nivel para desarrollo rápido y robusto.
+
+Instalación: pip install Django
+Flask: Framework web minimalista y ligero.
+
+Instalación: pip install Flask
+Scikit-Learn: Para aprendizaje automático y análisis de datos.
+
+Instalación: pip install scikit-learn
+SQLAlchemy: Para interactuar con bases de datos SQL de manera eficiente.
+
+Instalación: pip install SQLAlchemy
+TensorFlow: Framework de aprendizaje automático desarrollado por Google.
+
+Instalación: pip install tensorflow
+
+
 
 
 
